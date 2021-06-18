@@ -1,0 +1,77 @@
+2021-06-12 14:07:54 main INFO  TestBase:233 - driver closed
+2021-06-12 17:05:15 main INFO  TestBase:233 - driver closed
+2021-06-12 17:14:55 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-12 17:14:58 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-12 17:14:59 main INFO  TestBase:233 - driver closed
+2021-06-12 22:38:08 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-12 22:38:12 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-12 22:38:13 main INFO  TestBase:233 - driver closed
+2021-06-13 03:13:11 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-13 03:13:14 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-13 03:13:16 main INFO  TestBase:233 - driver closed
+2021-06-13 03:13:41 main INFO  TestBase:233 - driver closed
+2021-06-13 03:14:08 main INFO  TestBase:233 - driver closed
+2021-06-13 20:20:22 main INFO  LoginTest:54 - Sign in button click
+2021-06-13 20:20:23 main INFO  TestBase:246 - driver closed
+2021-06-13 22:14:58 main INFO  LoginTest:54 - Sign in button click
+2021-06-13 22:14:58 main INFO  LoginTest:54 - Sign in button click.
+2021-06-13 22:15:09 main INFO  TestBase:246 - driver closed
+2021-06-13 22:15:16 main INFO  LoginTest:54 - Sign in button click
+2021-06-13 22:16:01 main INFO  LoginTest:54 - Sign in button click
+2021-06-13 22:16:01 main INFO  LoginTest:54 - Sign in button click.
+2021-06-13 22:16:09 main INFO  TestBase:246 - driver closed
+2021-06-13 22:16:16 main INFO  LoginTest:54 - Sign in button click
+2021-06-13 22:16:17 main INFO  LoginTest:54 - Sign in button click.
+2021-06-13 22:16:27 main INFO  TestBase:246 - driver closed
+2021-06-13 22:17:32 main INFO  LoginTest:54 - Sign in button click
+2021-06-13 22:17:32 main INFO  LoginTest:54 - Sign in button click.
+2021-06-14 00:58:42 main INFO  LoginTest:54 - Sign in button click
+2021-06-14 00:58:42 main INFO  LoginTest:54 - Sign in button click.
+2021-06-14 00:58:52 main INFO  TestBase:246 - driver closed
+2021-06-14 00:58:57 main INFO  LoginTest:54 - Sign in button click
+2021-06-14 00:58:57 main INFO  LoginTest:54 - Sign in button click.
+2021-06-14 00:59:03 main INFO  TestBase:246 - driver closed
+2021-06-14 01:01:07 main INFO  LoginTest:54 - Sign in button click
+2021-06-14 01:01:07 main INFO  LoginTest:54 - Sign in button click.
+2021-06-14 01:01:17 main INFO  TestBase:246 - driver closed
+2021-06-14 01:37:00 main INFO  LoginTest:54 - Sign in button click
+2021-06-14 01:37:00 main INFO  LoginTest:54 - Sign in button click.
+2021-06-14 01:37:11 main INFO  TestBase:246 - driver closed
+2021-06-14 01:37:16 main INFO  LoginTest:54 - Sign in button click
+2021-06-14 01:37:16 main INFO  LoginTest:54 - Sign in button click.
+2021-06-14 01:37:22 main INFO  TestBase:246 - driver closed
+2021-06-14 01:37:26 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-14 01:37:29 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-14 01:37:34 main INFO  TestBase:246 - driver closed
+2021-06-14 01:37:38 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-14 01:37:40 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-14 01:37:41 main INFO  TestBase:246 - driver closed
+2021-06-15 16:38:59 main INFO  TestBase:246 - driver closed
+2021-06-15 16:39:06 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-15 16:39:09 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-15 16:39:10 main INFO  TestBase:246 - driver closed
+2021-06-15 16:39:16 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-15 16:39:19 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-15 16:39:20 main INFO  TestBase:246 - driver closed
+2021-06-15 16:39:28 main INFO  TestBase:246 - driver closed
+2021-06-15 16:40:11 main INFO  TestBase:246 - driver closed
+2021-06-15 17:00:59 main INFO  TestBase:246 - driver closed
+2021-06-15 17:27:48 main INFO  TestBase:246 - driver closed
+2021-06-15 17:30:34 main INFO  TestBase:246 - driver closed
+2021-06-15 17:31:32 main INFO  TestBase:246 - driver closed
+2021-06-15 17:40:38 main INFO  TestBase:246 - driver closed
+2021-06-15 17:41:49 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-15 17:41:53 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-15 17:41:54 main INFO  TestBase:246 - driver closed
+2021-06-16 00:07:10 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-16 00:07:13 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-16 00:07:14 main INFO  TestBase:246 - driver closed
+2021-06-16 01:14:17 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-16 01:14:21 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-16 01:14:22 main INFO  TestBase:246 - driver closed
+2021-06-16 01:15:57 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-16 01:16:44 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-16 01:16:46 main INFO  SearchTest:54 - Clicked on the search button.
+2021-06-16 01:16:47 main INFO  TestBase:246 - driver closed
+2021-06-16 18:25:04 main INFO  SearchTest:54 - Nike typed on the search bar.
+2021-06-16 18:25:07 main INFO  SearchTest:54 - Clicked on the search button.

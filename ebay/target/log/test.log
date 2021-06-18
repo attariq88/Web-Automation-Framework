@@ -1,0 +1,10 @@
+2021-06-13 18:46:01 main INFO  TestBase:246 - driver closed
+2021-06-13 18:46:08 main INFO  TestBase:246 - driver closed
+2021-06-13 18:46:15 main INFO  TestBase:246 - driver closed
+2021-06-13 18:46:18 main INFO  EbayTest:22 - Browser opend and ebay.com launched.
+2021-06-13 18:46:18 main INFO  EbayTest:26 - Ebay.com url validated.
+2021-06-13 18:46:18 main INFO  EbayTest:32 - Displaying logo validated.
+2021-06-13 18:46:18 main INFO  EbayTest:35 - Typing works
+2021-06-13 18:46:22 main INFO  EbayTest:38 - Button clicked
+2021-06-13 18:46:24 main INFO  TestBase:246 - driver closed
+2021-06-13 18:46:29 main INFO  TestBase:155 - closed the instance of the driver
